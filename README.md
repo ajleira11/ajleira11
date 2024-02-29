@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ajleira11/Portfolio](https://github.com/ajleira11/Portfolio)
-
 - 📫 How to reach me **arieljosephamano@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
