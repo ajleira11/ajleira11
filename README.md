@@ -4,7 +4,8 @@
 
 - 📫 How to reach me **arieljosephamano@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact I love playing MOBA games specially Mobile Legends Bang Bang!
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
